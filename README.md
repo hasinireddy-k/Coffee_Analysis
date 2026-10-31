@@ -40,14 +40,6 @@ This project analyses retail coffee sales data from Indonesia to understand cust
 
 **Best-performing model:** Decision Tree Classifier with a reported accuracy of 98%.
 
-## Visualizations
-
-- Accuracy comparison chart
-- Confusion matrices
-- Classification reports
-- Decision Tree visualization
-- Feature importance analysis
-
 ## Conclusion
 
 The Decision Tree Classifier achieved the highest reported accuracy among the four algorithms. This project demonstrates how machine learning can be applied to retail sales data to analyse customer behaviour and classify brand loyalty.
